@@ -6,6 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "private": true,
-  "author": "Ryan Barry <ryan.barry@ignitioncreative.com>"
+  "author": "Ryan Barry <azaeres@gmail.com>",
+  "license": "MIT"
 }
